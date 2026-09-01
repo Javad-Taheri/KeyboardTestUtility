@@ -2,10 +2,10 @@
 Keyboard Test Utility is a free Windows application tp test keyboard keys sanity and view key codes. It is portable and not installation required.
 
 ### Download
-Download the latest version from the [Releases]() section.
+Download the latest version from the [Releases](https://github.com/Javad-Taheri/KeyboardTestUtility/releases/latest) section.
 
 ### System Requirements
-Windows Vista or later
+Windows XP or later
 
 ### License
 After Link Downloader is free to use. The source code is not publicly available.
