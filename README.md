@@ -5,7 +5,8 @@ Keyboard Test Utility is a free Windows application tp test keyboard keys sanity
 Download the latest version from the [Releases](https://github.com/Javad-Taheri/KeyboardTestUtility/releases/latest) section.
 
 ### System Requirements
-Windows XP or later
+Windows Vista or later <br>
+WinXP no longer supported after 2.2.0
 
 ### License
 After Link Downloader is free to use. The source code is not publicly available.
