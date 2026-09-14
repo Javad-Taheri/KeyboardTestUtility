@@ -6,10 +6,10 @@ Download the latest version from the [Releases](https://github.com/Javad-Taheri/
 
 ### System Requirements
 Windows Vista or later <br>
-WinXP no longer supported after 2.2.0
+WinXP no longer supported after v2.2.0
 
 ### License
-After Link Downloader is free to use. The source code is not publicly available.
+After Link Downloader is free to use.
 
 ## Screenshots
 <img width="801" height="339" alt="Screenshot5" src="https://github.com/user-attachments/assets/c73589e7-a83f-43ab-98d1-a9f9b4091b49" />
